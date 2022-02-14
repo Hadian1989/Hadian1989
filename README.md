@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Python, ML/AI
 
--  👨‍💻 All of my projects are available [@Hadian1989](https://github.com/Hadian1989)
+-  👨‍💻 All of personal/business projects are available on [@Hadian1989](https://github.com/Hadian1989) and [@Hadian1989](https://gitlab.com/Ghazal1989)
 
 - 🤝 If I can help you, please do not hesitate to contact me by the following link
 
