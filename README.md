@@ -6,7 +6,7 @@
 
 
 <a target="_blank">
-  <img align="right" height="200" width="400" alt="GIF" src="https://github.com/Hadian1989/Covid-ML-Prediction/blob/main/istockphoto-1241710721-1024x1024.jpg">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Hadian1989/Covid-ML-Prediction/blob/main/istockphoto-1241710721-1024x1024.jpg">
 </a>
 </br>
 
