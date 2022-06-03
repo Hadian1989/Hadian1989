@@ -1,12 +1,12 @@
 
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<h1 align="center">Hi, I'm Ghazaleh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Ghazaleh<img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A Passionate Python Developer</h3>
 
 
 <a target="_blank">
-  <img align="right" height="200" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="200" width="400" alt="GIF" src="https://github.com/Hadian1989/Covid-ML-Prediction/blob/main/istockphoto-1241710721-1024x1024.jpg">
 </a>
 </br>
 
