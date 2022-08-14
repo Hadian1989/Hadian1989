@@ -10,9 +10,9 @@
 </a>
 </br>
 
-- 👀 I’m interested in applied ML and AI in control and automated systems, looking for a master position or an internship.
+- 👀 I’m interested in applied ML and AI in control and automated systems.
 
-- 🌱 I’m currently learning Python, ML/AI
+- 🌱 I’m currently working as a Mid-level full stack developer using Angular and Django.
 
 -  👨‍💻 All of personal/business projects are available on [GitHub: @Hadian1989](https://github.com/Hadian1989) and [GitLab: @Hadian1989](https://gitlab.com/Ghazal1989)
 
