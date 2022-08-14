@@ -16,7 +16,7 @@
 
 -  👨‍💻 All of personal/business projects are available on [GitHub: @Hadian1989](https://github.com/Hadian1989) and [GitLab: @Hadian1989](https://gitlab.com/Ghazal1989)
 
-- 🤝 If I can help you, please do not hesitate to contact me by the following link
+- 🤝 If I can help you, please do not hesitate to contact me by the following contact links.
 
 -----
 <h3 align="center">Languages and Tools:</h3>
