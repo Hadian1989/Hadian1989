@@ -2,7 +2,7 @@
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <h1 align="center">Hi, I'm Ghazaleh<img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Passionate Python Developer</h3>
+<h3 font-size="20" align="center">A Passionate Web Developer</h3>
 
 
 <a target="_blank">
@@ -10,9 +10,7 @@
 </a>
 </br>
 
-- 👀 I’m interested in applied ML and AI in control and automated systems.
-
-- 🌱 I’m currently working as a Mid-level full stack developer using Angular and Django.
+- 👀 I’m interested in programming and have experience in Python, Java, C++, Typescript, JavaScript. I worked with popular frameworks; Angular, React.js, Django, FastAPI, and Spring Boot,
 
 -  👨‍💻 All of personal/business projects are available on [GitHub: @Hadian1989](https://github.com/Hadian1989) and [GitLab: @Hadian1989](https://gitlab.com/Ghazal1989)
 
