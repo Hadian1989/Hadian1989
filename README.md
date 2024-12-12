@@ -14,7 +14,6 @@
 
 -  👨‍💻 All of personal/business projects are available on [GitHub: @Hadian1989](https://github.com/Hadian1989) and [GitLab: @Hadian1989](https://gitlab.com/Ghazal1989)
 
-- [LinkedIn profile:](https://www.linkedin.com/in/ghazaleh-hadian-91a86b43/) 
 -----
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
