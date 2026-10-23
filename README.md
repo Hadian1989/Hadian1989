@@ -1,67 +1,36 @@
+# Hi, I'm Ghazal 👋
 
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+**Fullstack developer** (Angular · Java/Spring Boot) and **Master's student** at FH Dortmund, based near Hannover, Germany.
 
-<h1 align="center">Hi, I'm Ghazaleh<img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Passionate Web Developer</h3>
+- 💼 Working student at **Rhenus Group** since 2023: Angular, TypeScript, RxJS, Tailwind CSS, Spring Boot, GitLab CI/CD
+- 🔧 Background in **electrical engineering** and 4 years in industry, so I like software that runs close to real machines
+- 🎓 Master's thesis: cooperative **UAV–UGV positioning** with GNSS/RTK (C/C++, ESP32, STM32)
+- 🔍 Open to **working student** roles around Hannover / Braunschweig
 
+## ⭐ Featured projects
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Hadian1989/Covid-ML-Prediction/blob/main/istockphoto-1241710721-1024x1024.jpg">
-</a>
-</br>
+| Project | What it is | Tech |
+|---|---|---|
+| [**Mini-HMI Extruder**](https://github.com/Hadian1989/mini-hmi-extruder) · [Live demo](https://hadian1989.github.io/mini-hmi-extruder/) | Operator panel for three extruder heating zones: alarms, alarm log, emergency stop with acknowledgement, start-up sequence | HTML, CSS, JavaScript |
+| [**Telegram Chatbot with ChatGPT**](https://github.com/Hadian1989/telegram-chatbot) | Spring Boot app connecting a Telegram bot and a REST API to GPT-4o mini, with chat memory per user and structured output | Java, Spring Boot, LangChain4j, OpenAI |
+| [**Truck Platooning**](https://github.com/Hadian1989/Truck-Platooning) | Simulation of a four-truck platoon with real-time V2V communication and synchronization (FH Dortmund) | C++, OpenMP, pthread, UDP |
+| [**Angular CRUD App**](https://github.com/Hadian1989/Rhenus-Angular-CRUD-Application) | Small Angular app to create, list, edit and delete people, with a mock REST backend | Angular, TypeScript, JSON Server |
+| [**Goertzel Filter**](https://github.com/Hadian1989/goertzel-filter-microelectronic) | Hardware implementation of the Goertzel algorithm to detect a 150 kHz signal (FH Dortmund) | VHDL, DSP |
 
-- 👀 I’m interested in programming and have experience in Python, Java, C++, Typescript, JavaScript. I worked with popular frameworks; Angular, React.js, Django, FastAPI, and Spring Boot,
+## 🛠️ Tech stack
 
--  👨‍💻 All of personal/business projects are available on [GitHub: @Hadian1989](https://github.com/Hadian1989) and [GitLab: @Hadian1989](https://gitlab.com/Ghazal1989)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
------
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-<code><img width="43" height="43" src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python"/>
-</code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" alt="GIF" src="https://github.com/Hadian1989/Persian-LinkedIn-Posts/blob/main/Matlab_Logo.png">
-</code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
-<code><img width="40" height="40" src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r"/>
-</code>
-<code><img height="37" width="37" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+## 📫 Contact
 
-<br/>
-<br/>
-</div>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazaleh-hadian-91a86b43/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazal.hadiyan@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p align="center">
-<a href="https://github.com/Hadian1989">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hadian1989&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hadian1989&layout=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
-</div>
-<br/>
-
----
-Credits: [Hadian1989](https://github.com/Hadian1989)
-
-Last edited on: 02/12/2021
-
-
-
+[LinkedIn](https://www.linkedin.com/in/ghazaleh-hadian-91a86b43/) · ghazal.hadian.ghahfarokhi@gmail.com
