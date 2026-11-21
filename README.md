@@ -12,7 +12,7 @@
 | Project | What it is | Tech |
 |---|---|---|
 | [**Mini-HMI Extruder**](https://github.com/Hadian1989/mini-hmi-extruder) · [Live demo](https://hadian1989.github.io/mini-hmi-extruder/) | Operator panel for three extruder heating zones: alarms, alarm log, emergency stop with acknowledgement, start-up sequence | HTML, CSS, JavaScript |
-| [**Telegram Chatbot with ChatGPT**](https://github.com/Hadian1989/telegram-chatbot) | Spring Boot app connecting a Telegram bot and a REST API to GPT-4o mini, with chat memory per user and structured output | Java, Spring Boot, LangChain4j, OpenAI |
+| [**RAG Document Assistant**](https://github.com/Hadian1989/rag-document-assistant) | Full-stack app that answers questions about PDFs with sources (file, page): Angular web UI, Telegram bot and REST API; function calling, structured output and an eval suite (94% correct answers) | Angular, Java, Spring Boot, LangChain4j, OpenAI, pgvector, Docker |
 | [**Truck Platooning**](https://github.com/Hadian1989/Truck-Platooning) | Simulation of a four-truck platoon with real-time V2V communication and synchronization (FH Dortmund) | C++, OpenMP, pthread, UDP |
 | [**Angular CRUD App**](https://github.com/Hadian1989/Rhenus-Angular-CRUD-Application) | Small Angular app to create, list, edit and delete people, with a mock REST backend | Angular, TypeScript, JSON Server |
 | [**Goertzel Filter**](https://github.com/Hadian1989/goertzel-filter-microelectronic) | Hardware implementation of the Goertzel algorithm to detect a 150 kHz signal (FH Dortmund) | VHDL, DSP |
